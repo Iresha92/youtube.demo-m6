@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\M6\AndroidStudioProjects\SQL\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\M6\AndroidStudioProjects\SQL\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-918547d4f35602b8fc7f3f41396e6e6e79c45a4b.jar" />
+    </item>
+    <item
+        jar="C:\Users\M6\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\M6\AndroidStudioProjects\SQL\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-15a01fd90bc95cbdb3720fb0f58e95f9f48b4508.jar" />
+    </item>
+    <item
+        jar="C:\Users\M6\AndroidStudioProjects\SQL\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\M6\AndroidStudioProjects\SQL\app\build\intermediates\pre-dexed\debug\classes-1b5932c8b20db11d7524c9730bba51bb5eb5c973.jar" />
+    </item>
+    <item
+        jar="C:\Users\M6\AndroidStudioProjects\SQL\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\M6\AndroidStudioProjects\SQL\app\build\intermediates\pre-dexed\debug\classes-9a08a8c80b2006accaa847055ff9f6d7a14759c4.jar" />
+    </item>
+
+</items>
